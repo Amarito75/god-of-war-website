@@ -7,7 +7,7 @@
 ### Make sur that you have Node JS and NPM
 
 ### npm run dev
-### launch the serv
+#### launch the serv
 
 ### npm run build
-### lauch a deployment version
+#### lauch a deployment version
