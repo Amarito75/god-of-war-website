@@ -56,8 +56,6 @@ window.addEventListener('resize', () =>
     // Update renderer
     renderer.setSize(sizes.width, sizes.height)
     
-    // Update orbit controls
-    // cameraControls.update()
 })
 
 //-----------------------------------------------------------
