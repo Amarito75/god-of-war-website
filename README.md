@@ -6,4 +6,8 @@
 1. `npm install`
 2. `npm run dev`
 
+### The website : https://god-of-war-website.vercel.app/
+  
+
 _Enjoy !_
+
